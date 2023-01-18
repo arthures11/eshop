@@ -1,0 +1,27 @@
+.item{
+    width: auto;
+    height: 600px;
+  }
+  .tra{
+      width: 123px;
+  }
+  .produkty{
+      max-height: 230px;
+  }
+  .footer{
+    position: absolute;
+    bottom:0;
+  }
+  input[type=number]::-webkit-inner-spin-button, 
+  input[type=number]::-webkit-outer-spin-button {
+    opacity: 1;
+  }
+  #sztuki{
+    width: 50px;
+  }
+  #newer{
+    display: block;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+  }
