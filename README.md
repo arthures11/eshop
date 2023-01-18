@@ -1,2 +1,2 @@
-# eshop
- old random school project
+old random school project
+dont take it serious
